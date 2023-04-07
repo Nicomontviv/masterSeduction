@@ -404,7 +404,7 @@ html {
   
   /*-------------------------ADAPTACION PANTALLA COMPLETA----------------------------*/
 
-  @media screen and (min-width: 840px){
+  @media screen and (min-width: 1200px){
     .img1-blakensen{
       margin-left:30%;
       padding-left: 8%;
