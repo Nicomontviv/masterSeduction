@@ -21,6 +21,7 @@ html {
     padding-left: 10%;
    image-rendering: auto;
     max-width:100%;
+  object-fit: contain;
 
 }
 
@@ -63,7 +64,7 @@ html {
   width: 100%;
   max-width: 100%;
   image-rendering: auto;
-  
+  object-fit: contain;
 }
 .img2-blakensen-wide{
   display: none;
@@ -132,6 +133,7 @@ html {
     line-height: 0;
     max-width: 100%;
      image-rendering: auto;
+    object-fit: contain;
   }
   .p4blakensen{
     width: 100vw;
@@ -139,6 +141,7 @@ html {
     line-height: 0;
     max-width: 100%;
     image-rendering: auto;
+    object-fit: contain;
   }
   .p3blakensen-wide, .p4blakensen-wide{
     display: none;
@@ -183,6 +186,7 @@ html {
     height: fit-content;
     max-width: 100%;
    image-rendering: auto;
+    object-fit: contain;
   }
   .p5blakensen-wide{
     display: none;
@@ -221,6 +225,7 @@ html {
     height: fit-content;
     max-width: 100%;
     image-rendering: auto;
+    object-fit: contain;
   }
   .p6blakensen-wide{
     display: none;
@@ -246,6 +251,7 @@ html {
     height: fit-content;
     max-width: 100%;
     image-rendering: auto;
+    object-fit: contain;
   }
   .p7blakensenWide{
     display: none;
@@ -287,6 +293,7 @@ html {
     height: fit-content;
     max-width: 100%;
     image-rendering: auto;
+    object-fit: contain;
   }
   .p8blakensenWide, .p9blakensenWide{
     display: none;
@@ -300,6 +307,7 @@ html {
     height: fit-content;
     max-width: 100%;
     image-rendering: auto;
+    object-fit: contain;
   }
   .p10blakensenWide{
     display: none;
