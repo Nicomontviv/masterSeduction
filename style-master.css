@@ -19,6 +19,7 @@ html {
 .img1-blakensen{
     height: 60px;
     padding-left: 10%;
+
 }
 
 /*-----------------countdown--------------------*/
@@ -58,6 +59,7 @@ html {
 .img2-blakensen{
   height: fit-content;
   width: 100%;
+  max-width: 1200px;
   
 }
 .img2-blakensen-wide{
@@ -125,11 +127,13 @@ html {
     width: 100vw;
     height: fit-content;
     line-height: 0;
+    max-width: 1200px
   }
   .p4blakensen{
     width: 100vw;
     height: fit-content;
     line-height: 0;
+    max-width: 1200px
   }
   .p3blakensen-wide, .p4blakensen-wide{
     display: none;
@@ -172,6 +176,7 @@ html {
     display: inline-block;
     width: 100vw;
     height: fit-content;
+    max-width: 1200px
   }
   .p5blakensen-wide{
     display: none;
@@ -208,6 +213,7 @@ html {
     display: inline-block;
     width: 100%;
     height: fit-content;
+    max-width: 1200px
   }
   .p6blakensen-wide{
     display: none;
@@ -231,6 +237,7 @@ html {
     display: inline-block;
     width: 100%;
     height: fit-content;
+    max-width: 1200px
   }
   .p7blakensenWide{
     display: none;
@@ -270,6 +277,7 @@ html {
     display: inline-block;
     width: 100%;
     height: fit-content;
+    max-width: 1200px
   }
   .p8blakensenWide, .p9blakensenWide{
     display: none;
@@ -281,6 +289,7 @@ html {
     display: inline-block;
     width: 100%;
     height: fit-content;
+    max-width: 1200px
   }
   .p10blakensenWide{
     display: none;
