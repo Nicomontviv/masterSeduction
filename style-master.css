@@ -17,11 +17,8 @@ html {
     display: inline-block;
 }
 .img1-blakensen{
-    height: 60px;
-    padding-left: 20%;
-   image-rendering: auto;
-    max-width:100%;
-  object-fit: contain;
+    height: 80px;
+  
 
 }
 
@@ -442,10 +439,7 @@ html {
   /*-------------------------ADAPTACION PANTALLA COMPLETA----------------------------*/
 
   @media screen and (min-width: 800px){
-    .img1-blakensen{
-      margin-left:30%;
-      padding-left: 8%;
-  }
+
     .countDown-box__countDown{
       font-size: 2vw;
       padding-top: 2%;
