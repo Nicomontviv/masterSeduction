@@ -70,6 +70,7 @@ html {
   display: none;
   height: fit-content;
   width: 100%;
+   max-width:100%;
 }
 /*-----primer texto----*/
 .primerTexto-container{
@@ -96,9 +97,9 @@ html {
     margin-top: 5%;
     padding-left: 0;
     height: 60vw;
-    max-height: 720px;
+    max-height: 1080px;
     width:100vw;
-    max-width: 1100px;
+    max-width: 2100px;
     display: inline-block;
     position: relative;
     }
@@ -147,6 +148,7 @@ html {
     display: none;
     width: 100vw;
     height: fit-content;
+     max-width:100%;
   }
   .h2abajop4{
     color: #fff;
@@ -190,6 +192,7 @@ html {
   }
   .p5blakensen-wide{
     display: none;
+     max-width:100%;
   }
 
   /*----------VIDEOS DE TESTIMONIO------*/
@@ -226,8 +229,10 @@ html {
     max-width: 100%;
     image-rendering: auto;
     object-fit: contain;
+   
   }
   .p6blakensen-wide{
+     max-width:100%;
     display: none;
   }
 
@@ -245,7 +250,7 @@ html {
     background-color: #000;
   }
   .p7blakensen{
-  
+     max-width:100%;
     display: inline-block;
     width: 100%;
     height: fit-content;
@@ -254,6 +259,7 @@ html {
     object-fit: contain;
   }
   .p7blakensenWide{
+     max-width:100%;
     display: none;
     width: 100%;
     height: fit-content;
@@ -294,11 +300,13 @@ html {
     max-width: 100%;
     image-rendering: auto;
     object-fit: contain;
+    
   }
   .p8blakensenWide, .p9blakensenWide{
     display: none;
     width: 100%;
     height: fit-content;
+     max-width:100%;
   }
   /*-----------PREGUNTAS FRECUENTES-----------*/
   .p10blakensen{
@@ -308,11 +316,13 @@ html {
     max-width: 100%;
     image-rendering: auto;
     object-fit: contain;
+     
   }
   .p10blakensenWide{
     display: none;
     width: 100;
     height: fit-content;
+     max-width:100%;
   }
   .faq {
     background-color: #ca1016;
@@ -447,7 +457,7 @@ html {
     }
     /*video box*/
     .seccion-video__videobox{
-      margin-left: 15vw;
+      margin-left: 5vw;
     }
     /*IMG2*/
     .img2-blakensen-wide{
