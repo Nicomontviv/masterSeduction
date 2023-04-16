@@ -54,17 +54,25 @@ html {
     line-height: 0;
 }
 .img2-blakensen{
-  height: fit-content;
+    display:inline-block;
+  object-fit: contain;
+  image-rendering: optimizeQuality;
+  height: auto;
   width: 100%;
   max-width: 100%;
-  image-rendering: auto;
-  object-fit: contain;
+    margin:0;
+    padding:0;
+ 
 }
 .img2-blakensen-wide{
   display: none;
+  object-fit: contain;
+  image-rendering: optimizeQuality;
   height: fit-content;
   width: 100%;
-   max-width:100%;
+  max-width: 100%;
+    margin:0;
+    padding:0;
 }
 /*-----primer texto----*/
 .primerTexto-container{
